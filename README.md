@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/drsugiaichigo00781vn/count.svg)
+
 
 <!--
 **drsugiaichigo00781vn/drsugiaichigo00781vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
