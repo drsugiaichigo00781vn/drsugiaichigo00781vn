@@ -3,6 +3,9 @@
 
 ![Cat](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+### I’m currently working on...
+![Cat_snow](https://camo.voz.tech/afcee682e5bbc1e81b069ce33ab674e4c71efe54/68747470733a2f2f692e726564642e69742f303437693669796c74336335312e676966/)
+
 <!--
 **drsugiaichigo00781vn/drsugiaichigo00781vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
